@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React.js, Next.js **
 
-- 📫 How to reach me **shubhvarshneyv@gmail.com**
+- 📫 How to reach me **varshneyshubhv@gmail.com**
 
 - ⚡ Fun fact **I think I am Batman**
 
